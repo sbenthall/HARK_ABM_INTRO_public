@@ -1,6 +1,6 @@
 # Local configuration files
 macroliquidity_local.ini
-
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
